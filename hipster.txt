@@ -1,0 +1,1 @@
+Git is one of the popular platforms for code hosting which also helps in version controlling and collaborating with multiple developers to work on the same project and updating it online. In this tutorial, you will be learning about the introduction of Git and why developers must use it.
